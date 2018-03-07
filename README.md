@@ -1,0 +1,1 @@
+# electron-angular5-ckeditor5
