@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('electron-ckeditor App', () => {
+describe('electron-angular5-ckeditor5 App', () => {
   let page: AppPage;
 
   beforeEach(() => {
